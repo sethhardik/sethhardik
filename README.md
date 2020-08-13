@@ -1,5 +1,5 @@
 ### Hi there 👋🏻 
-I’m a Electronics & Communication Engineer. I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
+I’m an Electronics & Communication Engineer. I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
 
 In the past, I have worked with [**Prithvi.AI**](https://www.prithvi.ai/) and [**HCL Technologies**](https://www.hcltech.com//) as a Data Science Intern. I have also worked as a Machine Learning Intern at [**Nanniz pvt Ltd**](https://naaniz.com/) startup related to food delivery system and helped them with AI integration like chatbot and sentiment analysis on the comments.
 
