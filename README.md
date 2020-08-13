@@ -10,7 +10,7 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 
 **Framework:** Flask, django,Bootstrap.
 
-**Libraries & Tools:** AWS EC2, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, Tensorflow, Keras, NLTK, learning(pytorch).
+**Libraries & Tools:** AWS EC2, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Tensorflow, Keras, NLTK, learning(pytorch).
 
 **Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Collection, Quantitative Methods.
 
