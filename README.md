@@ -1,9 +1,10 @@
 ### Hi there 👋🏻 
-I’m an Electronics & Communication Engineer. I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
+Electronics Engineer with minor in Computer Science from JIMS Engineering Management Technical Campus (JEMTEC), Greater Noida, UP. Seeking a suitable opportunity that will help me implement my learning in a creative and innovative manner thereby contributing to the short - long term goals of the organization effectively.
+
+I am currently working [**Algo8.AI**](https://www.algo8.ai/) as a Backend Developer. My role in the company to integrate machine learning models with server and application efficiently. I am part of iVision product development which is the flagship AI Vision product of Algo8 and is deployed in some of the renowned companies in India.
 
 In the past, I have worked with [**Prithvi.AI**](https://www.prithvi.ai/) and [**HCL Technologies**](https://www.hcltech.com//) as a Data Science Intern. I have also worked as a Machine Learning Intern at [**Nanniz pvt Ltd**](https://naaniz.com/) startup related to food delivery system and helped them with AI integration like chatbot and sentiment analysis on the comments.
-
-Currently, I am looking for a full-time role in Data Science, Machine Learning or related field. 
+ 
 
 ### Things I'm good at 
 **Languages:**  Python, SQL, HTML, CSS, C++, C.
