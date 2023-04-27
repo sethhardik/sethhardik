@@ -1,4 +1,4 @@
-### Hi there 👋🏻 
+### Hi, I'm Hardik Seth 👋🏻 
 
 Data Enthusiast with more than 2 years of full-time experience in high paced, startup environment and in organized MNC. I have deployed multiple projects both in cloud and on-prem systems. And understand the challenges in deploying ML/AI based solution in terms of scalability and retraining.
 
