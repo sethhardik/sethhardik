@@ -1,8 +1,10 @@
 ### Hi, I'm Hardik Seth 👋🏻 
 
-Data Enthusiast with more than 2 years of full-time experience in high paced, startup environment and in organized MNC. I have deployed multiple projects both in cloud and on-prem systems. And understand the challenges in deploying ML/AI based solution in terms of scalability and retraining.
+Data Scientist with a strong foundation in statistical analysis and machine learning, graduated in 2021.
+Proven track record of delivering impactful insights and solutions in both MNC and startup environments.
+I have deployed multiple projects both in cloud and on-prem machines and I understand the challenges in deploying ML/AI based solution in terms of scalability and retraining.
 
-I am currently working in Fortune 200 company **CircleK** as a Associate Data Scientist. 
+I am currently working in [**CircleK**](https://www.circlek.com/) as Data Scientist working on Merchandise and Fuel Analytics. 
 
 In the past, I have worked with [**Algo8AI**](https://www.algo8.ai/) as Machine Learning Engineer. 
 
