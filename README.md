@@ -1,25 +1,25 @@
 ### Hi, I'm Hardik Seth 👋🏻 
 
-Data Scientist with a strong foundation in statistical analysis and machine learning graduated in 2021.
-I have a proven track record of delivering impactful insights and solutions in MNC and startup environments.
-I have deployed multiple projects in cloud and on-prem machines and understand the challenges in deploying ML/AI-based solutions in terms of scalability and retraining.
+**Data Scientist | Machine Learning Engineer**
 
-I am currently working in [**CircleK**](https://www.circlek.com/) as a Data Scientist working on Merchandise and Fuel Analytics. 
+I am a Data Scientist with a solid foundation in statistical analysis and machine learning, having graduated in 2021. I have successfully delivered impactful insights and solutions across MNC and startup environments. My experience includes deploying multiple projects on cloud and on-premises systems, with a deep understanding of the challenges related to scalability and retraining of ML/AI solutions.
 
-In past, I have worked with [**Algo8AI**](https://www.algo8.ai/) as a Machine Learning Engineer. 
+**Current Role**  
+I am currently working at **CircleK** as a Data Scientist, focusing on Merchandise and Fuel Analytics.
 
-Experience in the following domains: 
-  -  Merchandise and Fuel Retail ( Price Optimization, Loyalty, Assortment and Supply Chain Optimization)
-  -  Manufacturing Industry (Predictive Maintenance, Quality Assurance)
+**Previous Experience**  
+Before CircleK, I worked at **Algo8 AI** as a Machine Learning Engineer, contributing to various impactful projects targeting manufacturing Industry.
 
-### Things I'm good at 
-**Languages:**  Python, SQL, R, Spark
+**Domain Expertise**  
+- **Retail (Merchandise and Fuel):** Price Optimization, Loyalty Programs, Assortment, and Supply Chain Optimization
+- **Manufacturing:** Predictive Maintenance, Quality Assurance
 
-**Framework:** Flask, Fast, Django.
+**Skills**  
+- **Languages:** Python, SQL, R, Spark  
+- **Frameworks:** Flask, FastAPI, Django  
+- **Libraries & Tools:** Databricks, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, TensorFlow, Keras, NLTK  
+- **MLOps Tools:** Linux, Git, Docker, MLflow, Jenkins, Airflow, Kubernetes
 
-**Libraries & Tools:** DataBricks, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Tensorflow, Keras, NLTK.
-
-**MLOps Tools:** Linux, Git, Docker, Ml-Flow, Jenkins, Airflow, Kubernetes.
-
-### How to reach me 📱
+**Let's Connect** 📱
+Feel free to reach out!
 [<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/919911750445) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/hardik-seth-b2a23b164/)
