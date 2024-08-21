@@ -21,5 +21,7 @@ Before CircleK, I worked at **Algo8 AI** as a Machine Learning Engineer, contrib
 - **MLOps Tools:** Linux, Git, Docker, MLflow, Jenkins, Airflow, Kubernetes
 
 **Let's Connect** 📱
+
 Feel free to reach out!
+
 [<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/919911750445) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/hardik-seth-b2a23b164/)
